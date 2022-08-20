@@ -11,10 +11,5 @@ class AnthrostormTest {
     assertEquals("Hello, World!", "Hello, World!");
   }
 
-  @Test
-  void failingTest() {
-    assertEquals("Hello, World!", "World, Hello!");
-  }
-
 
 }
